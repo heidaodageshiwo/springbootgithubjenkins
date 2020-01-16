@@ -23,7 +23,7 @@ public class test {
 
   @RequestMapping("/test")
   public String get(){
-    return "范德萨范德萨f范德萨啊啊啊放大发付付付付付方法付方法付方法付付";
+    return "范德 ";
   }
   @RequestMapping("/test1")
   public String get123(){
